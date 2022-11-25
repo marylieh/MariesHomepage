@@ -133,7 +133,7 @@
  }
 
  #home .content h1::after{
-     content: "***REMOVED***";
+     content: "Marie";
      animation: textanim 10s linear infinite;
  }
 
